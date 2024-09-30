@@ -1,3 +1,11 @@
+
+:: This file, gradlew.bat, is a Windows batch script used to run Gradle, 
+:: a build automation tool commonly used in Java projects. The script is part of the Gradle Wrapper, which allows 
+:: you to run a specific version of Gradle without requiring the user to install Gradle manually. 
+:: Let's break down the script step by step:
+:: This script ensures that Gradle can be run on any Windows machine without requiring a pre-installed version of Gradle,
+:: making it easier to manage project dependencies and build configurations.
+
 @rem
 @rem Copyright 2015 the original author or authors.
 @rem
